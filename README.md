@@ -1,4 +1,4 @@
-**AI BOOK PUBLICATION**
+## AI BOOK PUBLICATION
 
 This project is a lightweight AI-powered reviewer system designed to automate the evaluation of content for an automation-focused book. It offers voice-enabled input/output, agentic pipeline orchestration, version tracking, and semantic understanding to streamline AI-assisted content iteration.
 🚀 Live 
@@ -25,12 +25,19 @@ Preview link : [https://drive.google.com/file/d/1Mj_CX5GGpW3Sq9fPrPv8YHgmHBjDt7g
 -  **Semantic Search** :using Embeddings + FAISS/ChromaDB
 -  **deploying**: Streamlit Deployement
 ---
-Tech Stack
+##Tech Stack
 
 **Web Automation**: Playwright
+
+
 **text_extraction**: Beautifulsoup
+
+
 **LLM**: gemini-1.5-flash
+
+
 **Frontend**: Streamlit
+
 
 Deployment
 (Upcoming: Streamlit Cloud)
