@@ -1,4 +1,4 @@
-AI BOOK PUBLICATION
+**AI BOOK PUBLICATION**
 
 This project is a lightweight AI-powered reviewer system designed to automate the evaluation of content for an automation-focused book. It offers voice-enabled input/output, agentic pipeline orchestration, version tracking, and semantic understanding to streamline AI-assisted content iteration.
 🚀 Live 
